@@ -1,0 +1,21 @@
+﻿@model IEnumerable<MvcDapperTest.Core.User>
+
+<h1>Users ...</h1>
+<hr />
+
+@if (Model != null && Model.Any())
+{
+  <table class="table table-striped">
+    @foreach (var user in Model.OrderBy(u => u.Name))
+	  {
+		  <tr>
+        <td>@user.Id</td>
+        <td>@user.Name</td>
+      </tr>
+	  }
+  </table>
+}
+else
+{
+  <div class="alert alert-danger">No users</div>
+}

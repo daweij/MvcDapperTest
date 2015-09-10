@@ -1,0 +1,10 @@
+C:\Users\danie_000\Documents\GitHub\MvcDapperTest\MvcDapperTest.Repository\bin\Debug\MvcDapperTest.Repository.dll
+C:\Users\danie_000\Documents\GitHub\MvcDapperTest\MvcDapperTest.Repository\bin\Debug\MvcDapperTest.Repository.pdb
+C:\Users\danie_000\Documents\GitHub\MvcDapperTest\MvcDapperTest.Repository\bin\Debug\Dapper.dll
+C:\Users\danie_000\Documents\GitHub\MvcDapperTest\MvcDapperTest.Repository\bin\Debug\MvcDapperTest.Core.dll
+C:\Users\danie_000\Documents\GitHub\MvcDapperTest\MvcDapperTest.Repository\bin\Debug\MvcDapperTest.Core.pdb
+C:\Users\danie_000\Documents\GitHub\MvcDapperTest\MvcDapperTest.Repository\bin\Debug\Dapper.pdb
+C:\Users\danie_000\Documents\GitHub\MvcDapperTest\MvcDapperTest.Repository\bin\Debug\Dapper.xml
+C:\Users\danie_000\Documents\GitHub\MvcDapperTest\MvcDapperTest.Repository\obj\Debug\MvcDapperTest.Repository.csprojResolveAssemblyReference.cache
+C:\Users\danie_000\Documents\GitHub\MvcDapperTest\MvcDapperTest.Repository\obj\Debug\MvcDapperTest.Repository.dll
+C:\Users\danie_000\Documents\GitHub\MvcDapperTest\MvcDapperTest.Repository\obj\Debug\MvcDapperTest.Repository.pdb
