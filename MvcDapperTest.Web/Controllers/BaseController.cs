@@ -9,7 +9,7 @@ using MvcDapperTest.Repository;
 
 namespace MvcDapperTest.Web.Controllers
 {
-    public class BaseController : Controller
+    public abstract class BaseController : Controller
     {
         protected string connectionString;
         protected IUserRepository _repository;
